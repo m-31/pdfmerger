@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # pdf_merger2.py
 
 import sys
